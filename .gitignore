@@ -1,4 +1,4 @@
 node.modules
 .idea
-.envgit checkoutgi
+.env
 package-lock.json
